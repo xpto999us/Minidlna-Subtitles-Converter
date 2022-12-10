@@ -27,7 +27,5 @@ C:\dir of minidlna\conv.exe -f cp1252 -d e:\forcetranscode
 
 ERRORS:
 -subtitles converted with wrong characters: maybe wrong codepage, for a list of codepages run iconv.exe -l
-
 -msg invalid dir/path: check path/dir of FORCETRANSCODE  folder.
--
-msg conversion error: maybe wrong codepage, for a list of codepages run iconv.exe -l
+-msg conversion error: maybe wrong codepage, for a list of codepages run iconv.exe -l
